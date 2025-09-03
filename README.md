@@ -1,0 +1,1 @@
+﻿# Smart Irrigation AI Agent
